@@ -1,0 +1,4 @@
+github.com/tidwall/gjson v1.1.0 h1:/7OBSUzFP8NhuzLlHg0vETJrRL02C++0ql5uSY3DITs=
+github.com/tidwall/gjson v1.1.0/go.mod h1:c/nTNbUr0E0OrXEhq1pwa8iEgc2DOt4ZZqAt1HtCkPA=
+github.com/tidwall/match v1.1.1 h1:+Ho715JplO36QYgwN9PGYNhgZvoUSc9X2c80KVTi+GA=
+github.com/tidwall/match v1.1.1/go.mod h1:eRSPERbgtNPcGhD8UCthc6PmLEQXEWd3PRB5JTxsfmM=
